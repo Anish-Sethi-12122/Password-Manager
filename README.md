@@ -10,13 +10,13 @@ Rich CLI Experience: Enjoy colorful prompts, clear instructions, and smooth feed
 
 **Getting Started**
 Install dependencies:
-Copy-paste the following command to your terminal and click enter 
-_pip install rich pyperclip pwinput argon2-cffi cryptography_
+Copy-paste the following command to your terminal and click enter -- 
+"_pip install rich pyperclip pwinput argon2-cffi cryptography_"
 
 **Run the application:**
 
-Copy-paste the following command to your terminal and click enter 
-_python Main.py_
+Copy-paste the following command to your terminal and click enter -- 
+"_python Main.py_"
 
 **How It Works**
 
